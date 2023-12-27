@@ -5,7 +5,7 @@ const Social = () => {
     <>
       <div className="home_social">
         <a href="" className="home_social-icon" target={"_blank"}>
-          <i class="uil uil-instagram"></i>
+          <i className="uil uil-instagram"></i>
         </a>
 
         <a
@@ -13,7 +13,7 @@ const Social = () => {
           className="home_social-icon"
           target={"_blank"}
         >
-          <i class="uil uil-linkedin-alt"></i>
+          <i className="uil uil-linkedin-alt"></i>
         </a>
 
         <a
@@ -21,15 +21,15 @@ const Social = () => {
           className="home_social-icon"
           target={"_blank"}
         >
-          <i class="uil uil-github-alt"></i>
+          <i className="uil uil-github-alt"></i>
         </a>
 
         <a href="" className="home_social-icon" target={"_blank"}>
-          <i class="uil uil-whatsapp"></i>
+          <i className="uil uil-whatsapp"></i>
         </a>
 
         <a href="" className="home_social-icon" target={"_blank"}>
-          <i class="uil uil-dribbble"></i>
+          <i className="uil uil-dribbble"></i>
         </a>
       </div>
     </>
