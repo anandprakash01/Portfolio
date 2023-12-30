@@ -24,7 +24,7 @@
 }
 
 .home_title {
-  font-size: var(--big-font-size);
+  font-size: calc(var(--big-font-size) - 0.7rem);
   margin-bottom: var(--mb-0-25);
 }
 
@@ -59,7 +59,7 @@
 
 .home_img {
   /* background: url(../../assets//profile.jpg); */
-  background: url(../../assets//anand_profile.jpg);
+  background: url(../../assets//anand_profile1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

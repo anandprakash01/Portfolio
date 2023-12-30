@@ -56,11 +56,11 @@ const Data = () => {
             ></path>
           </svg>
         </h1>
-        <h3 className="home_subtitle">FrontEnd Developer</h3>
+        <h3 className="home_subtitle">Frontend Developer</h3>
         <p className="home_description">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum consectetur
-          quia, quis ea dolorem sequi dolor neque reiciendis vitae ratione voluptatibus
-          tempora eligendi.
+          Hello, I'm a frontend developer who loves creating stunning and functional web
+          apps with React.js. I have built responsive, interactive, and user-friendly
+          websites.
         </p>
         <a href="#contact" className="button button-flex">
           Say Hello{" "}

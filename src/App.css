@@ -16,9 +16,11 @@
   --text-color: hsl(var(--hue), var(--sat), 46%);
   --body-color: hsl(var(--hue), var(--sat), 98%);
   --container-color: #fff;
+  --theme-yellow-color: #ffff00;
 
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
+  --logo-font: "Lobster", cursive;
 
   /*.5rem = 8px | 1rem = 16px ...*/
   --big-font-size: 3.5rem;

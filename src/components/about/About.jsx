@@ -2,7 +2,9 @@ import React from "react";
 
 import "./about.css";
 
-import AboutImg from "../../assets/about.jpg";
+// import AboutImg from "../../assets/about.jpg";
+import AboutImg from "../../assets/anand_profile2.jpg";
+
 import CV from "../../assets/Anand-Cv.pdf";
 
 import Info from "./Info";
@@ -20,8 +22,9 @@ const About = () => {
           <Info />
 
           <p className="about_description">
-            Frontend developer, I create web pages with UI / UX use interface, I have
-            years of experience and many clients are happy with the projects carried out.
+            I am Anand Prakash, a Frontend Web Developer. I enjoy learning new skills and
+            exploring new challenges in the web development field. I'm always open to new
+            opportunities and collaborations.
           </p>
 
           <a download="" href={CV} className="button button-flex">

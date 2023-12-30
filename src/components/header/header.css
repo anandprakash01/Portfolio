@@ -13,7 +13,25 @@
   align-items: center;
   column-gap: 1rem;
 }
-.nav_logo,
+
+.nav_logo {
+  font-family: var(--logo-font);
+  font-size: 1.5rem;
+  font-weight: var(--font-semi-bold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav_logo-p {
+  color: var(--theme-yellow-color);
+  transform: scale(1.5);
+}
+
+.nav_logo-ortfolio {
+  color: var(--title-color);
+}
+
 .nav_toggle {
   color: var(--title-color);
   font-weight: var(--font-medium);
@@ -42,6 +60,11 @@
 .active-link,
 .nav_link:hover {
   color: var(--title-color-dark);
+}
+
+/* -----------Change Background Header----------------- */
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
 }
 
 /* ------------------BreakPoints----------------- */
