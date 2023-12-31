@@ -6,8 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer" id="footer">
       <div className="footer_container container">
-        <h1 className="footer_title">Anand</h1>
-
+        <h1 className="footer_title">Anand Prakash</h1>
         <ul className="footer_list">
           <li>
             <a href="#about" className="footer_link">
@@ -27,7 +26,6 @@ const Footer = () => {
             </a>
           </li>
         </ul>
-
         <div className="footer_social">
           <a
             href="https://www.instagram.com/hr_anand/"
@@ -66,7 +64,6 @@ https://wa.me/7047867712?text=Hi,%20I’m%20looking%20for%20a%20website%20develo
             <i className="bx bxl-dribbble"></i>
           </a> */}
         </div>
-
         <span className="footer_copyright">&#169; anandprakash. All rights reserved</span>
       </div>
     </footer>

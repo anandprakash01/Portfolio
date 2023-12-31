@@ -7,6 +7,10 @@
   padding: 2rem 0 6rem;
 }
 
+.footer_title {
+  font-family: var(--logo-font);
+}
+
 .footer_title,
 .footer_link {
   color: var(--title-color);
