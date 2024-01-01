@@ -59,7 +59,6 @@
 }
 
 .home_img {
-  /* background: url(../../assets//profile.jpg); */
   background: url(../../assets//anand_profile1.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -70,6 +69,7 @@
   justify-self: center;
   width: 300px;
   height: 300px;
+  border-radius: 50%;
   animation: profile_animate 8s ease-in-out infinite 1s;
 }
 @keyframes profile_animate {
