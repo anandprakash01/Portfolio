@@ -70,7 +70,11 @@ https://wa.me/7047867712?text=Hi,%20I’m%20looking%20for%20a%20website%20develo
               <h3 className="contact_card-title">Linkedin</h3>
               <span className="contact_card-data">www.linkedin.com/in/hranand/</span>
 
-              <a href="mailto:ap.anandprakash@gmail.com.com" className="contact_button">
+              <a
+                href="https://www.linkedin.com/in/hranand/"
+                className="contact_button"
+                target="_blank"
+              >
                 Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i>
               </a>
             </div>

@@ -3,7 +3,7 @@ import React from "react";
 const Backend = () => {
   const skillLang = [{skill: "Node js", level: "Basic"}];
 
-  const skillTech = [{skill: "Firebase", level: "basic"}, ,];
+  const skillTech = [{skill: "Firebase", level: "Basic"}, ,];
 
   return (
     <div className="skills_content">
