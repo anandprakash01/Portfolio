@@ -36,7 +36,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/hranand/"
+            href="https://www.linkedin.com/in/anandprakash21/"
             className="footer_social-link"
             target={"_blank"}
           >
