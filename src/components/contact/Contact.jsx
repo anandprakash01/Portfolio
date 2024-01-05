@@ -68,10 +68,10 @@ https://wa.me/7047867712?text=Hi,%20I’m%20looking%20for%20a%20website%20develo
               <i className="bx bxl-linkedin contact_card-icon"></i>
 
               <h3 className="contact_card-title">Linkedin</h3>
-              <span className="contact_card-data">www.linkedin.com/in/hranand/</span>
+              <span className="contact_card-data">linkedin.com/in/anandprakash21/</span>
 
               <a
-                href="https://www.linkedin.com/in/hranand/"
+                href="https://www.linkedin.com/in/anandprakash21/"
                 className="contact_button"
                 target="_blank"
               >
