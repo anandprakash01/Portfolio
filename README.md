@@ -2,7 +2,7 @@
 
 ### Portfolio Website Using (React + Vite)
 
-live demo:  https://anand-portffolio.netlify.app/
+Live demo:  https://anand-portffolio.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
